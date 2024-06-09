@@ -35,4 +35,6 @@ public class RewardValueTests {
         var rewardValue = new RewardValue(milesValue);
         assertEquals(expectedCashValue, rewardValue.getCashValue());
     }
+
+	//test added
 }
